@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fuatkarakus/tweet-map)
+
 # tweet-map 
 [![BCH compliance](https://bettercodehub.com/edge/badge/fuatkarakus/tweet-map?branch=master)](https://bettercodehub.com/)
 
